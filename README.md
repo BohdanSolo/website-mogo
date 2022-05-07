@@ -16,3 +16,4 @@
 - Adaptive design;
 - Burger menu;
 - Navigation logic;
+- Optimized project build with Gulp;
