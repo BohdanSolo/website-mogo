@@ -9,7 +9,7 @@
 
 ## Stack
 - JavaScript;
-- jQuery
+- jQuery;
 - HTML/CSS;
 
 ## Website features:
